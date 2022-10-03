@@ -4,7 +4,7 @@
 - 👨🏻‍💻 I am a Software Engineer.
 - 🔭 I’m currently working on Salesforce development
 - 🌱 I’m currently learning Adobe Experience Manager
-- 👯 I’m looking to collaborate on Javascript projects
+- 🧑🏻‍🏫 I’m looking to collaborate on Javascript projects
 - 🤔 I’m looking for help with AEM, React.JS
 - 📫 How to reach me: through my email juanedml@gmail.com
 
@@ -29,7 +29,7 @@ const Lalo_Mtnez = {
 };
 ```
 
-💻 coder, 🏋🏽‍♂️ Exercise addict, 🎮 Gamer, 🚴🏽‍♂️ eventual cyclist, 🧔🏻 the rest are consequences of life.
+💻 coder, 🏋🏽‍♂️ Exercise addict, 🎮 Gamer, 🧔🏻 the rest are consequences of life.
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
